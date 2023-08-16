@@ -1,1 +1,1 @@
-# project
+I engineered an advanced Student Database Management System by leveraging the Spring Boot Web Platform, Java, HTML, CSS, and MySQL. This innovative system equips students with the ability to seamlessly oversee their courses, reviews, and passport details through an intuitive and user-centric interface.
